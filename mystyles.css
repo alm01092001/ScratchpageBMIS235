@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+    color: navy;
+    background-color: aliceblue
+}
+
+li{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.common {
+    background-color: white;
+    border: solid 2px black;
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.mainbody {
+    top: 114px;
+    bottom:64px;
+    left:114px;
+    right:114px;
+}
+
+.footer {
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+}
